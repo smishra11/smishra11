@@ -1,4 +1,5 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+
 
 ## नमस्ते 🙏, I'm SUBHASISH MISHRA
 ## Sr. Software Engineer 👨‍💻
